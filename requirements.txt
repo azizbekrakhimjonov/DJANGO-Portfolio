@@ -15,7 +15,7 @@ idna==2.10
 matplotlip==0.2
 mock==4.0.2
 packaging==24.1
-pillow==10.4.0
+pillow==2.4.0
 psycopg2==2.9.9
 pycodestyle==2.6.0
 python-decouple==3.3
